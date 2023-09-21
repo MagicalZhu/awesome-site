@@ -1,4 +1,4 @@
-# awsome-site
+# awesome-site
 
 > 一些收藏的站点
 
