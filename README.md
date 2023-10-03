@@ -13,6 +13,19 @@
 1. [OpenJDk](https://openjdk.org),可以在这里看到 Java 不同版本的发布情况，以及各种 Java Specification
 2. [The Java Community Process](https://jcp.org/en/home/index),在这里可以找到各种的 JSR 文件
 
+#### 文档
+
+> 这里是一些框架、中间件等组件的使用文档
+
+1. [Spring](https://docs.spring.io/spring-framework/docs/) 不用说,java 开发离不开的框架。这里例举了 Spring 文档根目录
+
+### 前端
+
+#### 设计
+
+1. [YesIcon](https://yesicon.app) 集成了很多高质量的图标资源,在这里可以找到你想要的图标
+
+
 ### 学习
 
 > 这里记录一些不错的学习资源(在线、awesome 资源...)
@@ -34,4 +47,5 @@
 
 1. [Typora](https://typora.io/) 是一款"所见即所得"的 Markdown 编辑器，懂得都懂
 2. [Obsidian](https://obsidian.md/) 是本地优先的笔记管理工具，有丰富的插件系统。它的图谱、双链可以很好的展现出知识逻辑关系。还可以通过"加钱" 购入官方同步服务和发布服务,用起来很丝滑...
+3. [Vscode](https://code.visualstudio.com/) 不用说,不管是前端开发还是后端开发都非常适用的 IDE
    
