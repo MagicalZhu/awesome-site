@@ -34,6 +34,7 @@
 > 这里记录一些不错的学习资源(在线、awesome 资源...)
 
 1. [Hello 算法](https://www.hello-algo.com/) 是一个算法入门学习教程,可以很好的帮助想了解、学习算法的同学
+2. Usfca 提供的 [数据结构可视化网站](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)，可以可视化了解各种数据结构的
 
 # 博主
 
