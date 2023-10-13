@@ -22,6 +22,12 @@
 1. [Spring](https://docs.spring.io/spring-framework/docs/) 不用说,java 开发离不开的框架。这里例举了 Spring 文档根目录
 2. [gRPC](https://grpc.io/about/) 是 Google 开源的一款高性能 RPC 框架，类似的 RPC 框架还有 [Apache Dubbo](https://cn.dubbo.apache.org/zh-cn/)、[Apache Thrift](https://github.com/apache/thrift/)
 
+#### 中间件
+
+1. [Nginx](http://nginx.org/en/docs/) 是一个高性能的反向代理服务器，同时有丰富的模块来拓展Nginx。
+      - [淘宝 Nginx 的中文文档](http://tengine.taobao.org/nginx_docs/cn/docs/dirindex.html)
+2. [Openresty](https://openresty.org/cn/installation.html) 是基于 Nginx 的高性能 Web 服务器，并且支持 Lua 拓展
+
 ## 前端
 
 ### 设计
