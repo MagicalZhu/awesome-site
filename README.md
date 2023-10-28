@@ -41,6 +41,7 @@
 
 1. [Hello 算法](https://www.hello-algo.com/) 是一个算法入门学习教程,可以很好的帮助想了解、学习算法的同学
 2. Usfca 提供的 [数据结构可视化网站](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)，可以可视化了解各种数据结构的
+3. [J2EE 的核心模式](http://www.corej2eepatterns.com),给出了很多模式的 UML 图,帮助你理解 J2EE 的设计
 
 # 博主
 
