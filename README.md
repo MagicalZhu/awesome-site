@@ -63,5 +63,6 @@
 2. [Obsidian](https://obsidian.md/) 是本地优先的笔记管理工具，有丰富的插件系统。它的图谱、双链可以很好的展现出知识逻辑关系。还可以通过"加钱" 购入官方同步服务和发布服务,用起来很丝滑...
 3. [Vscode](https://code.visualstudio.com/) 不用说,不管是前端开发还是后端开发都非常适用的 IDE
 4. [mermaid](https://mermaid.js.org/) 在 Markdown 中编写流程图！
+5. 在线画图工具[excalidraw](https://excalidraw.com/)
 
    
