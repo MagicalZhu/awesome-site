@@ -19,7 +19,7 @@
 
 #### 开发框架
 
-1. [Spring](https://docs.spring.io/spring-framework/docs/) 不用说,java 开发离不开的框架。这里例举了 Spring 文档根目录
+1. [Spring](https://docs.spring.io/spring-framework/docs/) 不用说,java 开发离不开的框架。这里例举了 Spring 文档根目录,以及
 2. [gRPC](https://grpc.io/about/) 是 Google 开源的一款高性能 RPC 框架，类似的 RPC 框架还有 [Apache Dubbo](https://cn.dubbo.apache.org/zh-cn/)、[Apache Thrift](https://github.com/apache/thrift/)
 
 #### 中间件
