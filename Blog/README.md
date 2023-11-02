@@ -10,3 +10,4 @@
 3. [Tomcat是如何加载Spring和SpringMVC及Servlet相关知识](https://www.cnblogs.com/top-housekeeper/p/14105297.html)
 4. [SpringMVC源码解析](https://juejin.cn/post/6991290858880368676)
 5. [深入分析Spring 与 Spring MVC容器](https://juejin.cn/post/6844903537416077320)
+6. [深入理解SpringMVC工作原理](https://juejin.cn/post/7139807630024769549)
