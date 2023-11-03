@@ -42,6 +42,7 @@
 1. [Hello 算法](https://www.hello-algo.com/) 是一个算法入门学习教程,可以很好的帮助想了解、学习算法的同学
 2. Usfca 提供的 [数据结构可视化网站](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)，可以可视化了解各种数据结构的
 3. [J2EE 的核心模式](http://www.corej2eepatterns.com),给出了很多模式的 UML 图,帮助你理解 J2EE 的设计
+4. [深入架构原理与实践](https://www.thebyte.com.cn/) 是一本关于架构设计的[开源书籍](https://github.com/isno/theByteBook),
 
 # 博客站
 
@@ -69,5 +70,7 @@
 3. [Vscode](https://code.visualstudio.com/) 不用说,不管是前端开发还是后端开发都非常适用的 IDE
 4. [mermaid](https://mermaid.js.org/) 在 Markdown 中编写流程图！
 5. 在线画图工具[excalidraw](https://excalidraw.com/)
+6. [根据Mac 地址查看网卡制造商](https://maclookup.app/)
+
 
    
