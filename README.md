@@ -43,17 +43,22 @@
 2. Usfca 提供的 [数据结构可视化网站](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)，可以可视化了解各种数据结构的
 3. [J2EE 的核心模式](http://www.corej2eepatterns.com),给出了很多模式的 UML 图,帮助你理解 J2EE 的设计
 
-# 博主
+# 博客站
 
-## 技术
+## 技术博主
 
 > 个人比较喜欢的一些技术博主
 
-1. [Why 师傅](https://juejin.cn/user/3702810893364350) 必须有有牌面，每一篇文章都很有意思，同时不缺乏技术深度。
-2. [小马哥](https://mercyblitz.github.io/) 是java 技术大佬，目前是自由职业者。虽然站点的技术文章输出不多，但是个人认为他的学习视频还是蛮不错的。
+1. [Why 师傅](https://juejin.cn/user/3702810893364350) 必须有有牌面，每一篇文章都很有意思，同时不缺乏技术深度
+2. [小马哥](https://mercyblitz.github.io/) 是java 技术大佬，目前是自由职业者。虽然站点的技术文章输出不多，但是个人认为他的学习视频还是蛮不错的
 3. Java 并发大师,Concurrent 并发包的作者[Doug Lea](https://gee.cs.oswego.edu/),墙裂推荐！
-4. [阮一峰](http://www.ruanyifeng.com/) 的个人站点,每周五会更新**周刊**,还有一些技术学习输出，墙裂推荐。
+4. [阮一峰](http://www.ruanyifeng.com/) 的个人站点,每周五会更新**周刊**,还有一些技术学习输出，墙裂推荐!
 5. [翟永超](https://www.didispace.com) 的个人站点，其中Spring Boot和SpringCloud 对于初学者蛮不错的
+6. [一颗彪悍的种子](https://juejin.cn/user/3571630350551789/posts) 是个人觉得在掘金上不错的作者，一些概念深入浅出，很容易让人理解。但是作者不是经常更新...
+
+## 面试学习
+
+1. [JavaGuide(Java面试 + 学习指南)](https://javaguide.cn/), 在Github 上的 star 已经超过 13 w
 
 # 工具软件
 
