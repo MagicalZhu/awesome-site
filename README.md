@@ -60,6 +60,7 @@
 ## 面试学习
 
 1. [JavaGuide(Java面试 + 学习指南)](https://javaguide.cn/), 在Github 上的 star 已经超过 13 w
+2. [海外兔的TopK面试题](https://osjobs.net/topk),对有刷面试算法题需求的很不错
 
 # 工具软件
 
