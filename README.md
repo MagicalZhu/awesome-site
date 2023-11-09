@@ -28,6 +28,10 @@
       - [淘宝 Nginx 的中文文档](http://tengine.taobao.org/nginx_docs/cn/docs/dirindex.html)
 2. [Openresty](https://openresty.org/cn/installation.html) 是基于 Nginx 的高性能 Web 服务器，并且支持 Lua 拓展
 
+## Kotlin
+
+1. Kotlin 的[官方开发文档](http://www.kotlinlang.org/),对应的有中文社区提供的[中文翻译版](https://book.kotlincn.net/)
+
 ## 前端
 
 ### 设计
