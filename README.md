@@ -44,7 +44,6 @@
 
 ### UI
 
-> ![Note]
 > 这里整理了一些不错的 UI 库、站点...
 
 1. [AWA UI](https://www.handsome-css.com/loaders),收集了仅靠 CSS 与 HTML 就可以实现的动效 UI
