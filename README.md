@@ -32,22 +32,38 @@
 
 1. Kotlin 的[官方开发文档](http://www.kotlinlang.org/),对应的有中文社区提供的[中文翻译版](https://book.kotlincn.net/)
 
+## Go
+
+1. [GolangStudy](https://github.com/cnymw/GolangStudy)提供了 Go 的学习路线和资料
+
 ## 前端
 
 ### 设计
 
 1. [YesIcon](https://yesicon.app) 集成了很多高质量的图标资源,在这里可以找到你想要的图标
 
+### UI
+
+> ![Note]
+> 这里整理了一些不错的 UI 库、站点...
+
+1. [AWA UI](https://www.handsome-css.com/loaders),收集了仅靠 CSS 与 HTML 就可以实现的动效 UI
+2. [uiverse](https://uiverse.io/loaders),也是收集、分享很多不错UI动效的网站，支持按 TailwindCss 分类
+3. [Framer-Motion](https://www.framer.com/motion/) ,React 生态中最好用的动效库
+
 
 ## 学习
 
-> 这里记录一些不错的学习资源(在线、awesome 资源...)
+> 这里记录一些不错的学习资源(视频、在线网站、awesome 资源...)
 
 1. [Hello 算法](https://www.hello-algo.com/) 是一个算法入门学习教程,可以很好的帮助想了解、学习算法的同学
 2. Usfca 提供的 [数据结构可视化网站](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)，可以可视化了解各种数据结构的
 3. [J2EE 的核心模式](http://www.corej2eepatterns.com),给出了很多模式的 UML 图,帮助你理解 J2EE 的设计
 4. [深入架构原理与实践](https://www.thebyte.com.cn/) 是一本关于架构设计的[开源书籍](https://github.com/isno/theByteBook)
 5. [计算机体系结构基础](https://foxsen.github.io/archbase) 是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本
+6. [LeetCode All in One 题目讲解汇总](https://github.com/grandyang/leetcode)
+7. [麻省理工学院公开课：算法导论](http://open.163.com/special/opencourse/algorithms.html)
+
 
 # 博客站
 
@@ -66,6 +82,7 @@
 
 1. [JavaGuide(Java面试 + 学习指南)](https://javaguide.cn/), 在Github 上的 star 已经超过 13 w
 2. [海外兔的TopK面试题](https://osjobs.net/topk),对有刷面试算法题需求的很不错
+3. [Orchome](https://www.orchome.com) 提供了很多技术的学习教程，比如[Kafka](https://www.orchome.com/kafka/index)、[istio](https://www.orchome.com/istio/index)...
 
 # 工具软件
 
@@ -74,10 +91,60 @@
 1. [Typora](https://typora.io/) 是一款"所见即所得"的 Markdown 编辑器，懂得都懂
 2. [Obsidian](https://obsidian.md/) 是本地优先的笔记管理工具，有丰富的插件系统。它的图谱、双链可以很好的展现出知识逻辑关系。还可以通过"加钱" 购入官方同步服务和发布服务,用起来很丝滑...
 3. [Vscode](https://code.visualstudio.com/) 不用说,不管是前端开发还是后端开发都非常适用的 IDE
-4. [mermaid](https://mermaid.js.org/) 在 Markdown 中编写流程图！
-5. 在线画图工具[excalidraw](https://excalidraw.com/)
+4. [Mermaid](https://mermaid.js.org/) 在 Markdown 中编写流程图！
+5. 手绘风格的在线画图工具[Excalidraw](https://excalidraw.com/),拥有多种丰富的开源组件。并且支持slef-hosting
 6. [根据Mac 地址查看网卡制造商](https://maclookup.app/)
 7. [生成 ascii 的树形目录结构](https://ascii-tree-generator.com/)
+8. [Xlog](https://xlog.app/) 是基于区块链的博客平台，[开源地址](https://github.com/Crossbell-Box/xLog)
 
 
-   
+# AI
+
+> ![Note]
+> 这里整理了一些 Ai 工具、仓库、站点
+
+## 工具
+
+1. [AIGC 提示词可视化编辑器](https://moonvy.com/apps/ops/),[开源地址](https://github.com/Moonvy/OpenPromptStudio)，现在支持 现在支持 Midjourney
+
+2. [Stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 为 [Stable-diffusion](https://github.com/Stability-AI/StableStudio) 提供了 web 界面，其他
+
+3. [Lobe Chat](https://chat-preview.lobehub.com) 是一个开源的高性能聊天机器人框架，支持语音合成、多模态和可扩展的功能调用插件系统,[开源地址](https://github.com/lobehub/lobe-chat)
+4. [tabby](https://tabby.tabbyml.com/) 是一个支持瑟利夫-hosting 的ai 代码助手，[开源地址](https://github.com/TabbyML/tabby)
+
+
+## Awesome
+
+1. [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) 提供了很多 ai 工具
+2. [AI绘画资料合集](https://github.com/hua1995116/awesome-ai-painting)
+
+## 教程
+
+1. 微软提供的 AI 教程[AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners),适合初学者
+
+2. [Comflowy](https://www.comflowy.com/zh-CN) 是以 ComfyUI 和 Stable Diffusion 为核心，打造更优质的生产工具、构建开发者与用户内容社区
+
+3. [Prompt-Engineering-Guide](https://www.promptingguide.ai/),是一个学习 Prompt 的网站，[开源地址](https://github.com/dair-ai/Prompt-Engineering-Guide)，类似的还有
+    - [Learnprompting](https://learnprompting.org/)，[开源地址](https://github.com/trigaten/Learn_Prompting)
+4. [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc) 是一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型
+5. 
+
+# 其他站点
+
+## 技术
+
+1. [Trending Papers](https://trendingpapers.com/) 是类似于 Github Trending 的计算机科学论文趋势榜单
+
+## 副业
+
+1. AI浪潮下，通过AI技术实现技术变现，[AiMonneyHunter](https://github.com/bleedline/aimoneyhunter)提供了各种副业思路，博主的[站点](https://17yongai.com)
+
+## 导航站
+
+1. [AI Bot](https://ai-bot.cn/) 是一个以 ai 为主题的导航站
+2. [Naviai](https://www.naviai.cn/) 也是 ai 工具的导航站
+3. [程序员盒子](https://www.coderutil.com/) 为开发者提供了很多技术资料的导航
+
+## 工具软件分享
+
+1. [Best-App](https://github.com/hzlzh/Best-App) 收集了很多优秀的 Apps/硬件/技巧/周边等
