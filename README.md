@@ -19,7 +19,7 @@
 
 #### 开发框架
 
-1. [Spring](https://docs.spring.io/spring-framework/docs/) 不用说,java 开发离不开的框架。这里例举了 Spring 文档根目录,以及
+1. [Spring](https://docs.spring.io/spring-framework/docs/) 不用说,java 开发离不开的框架。这里例举了 Spring 文档根目录
 2. [gRPC](https://grpc.io/about/) 是 Google 开源的一款高性能 RPC 框架，类似的 RPC 框架还有 [Apache Dubbo](https://cn.dubbo.apache.org/zh-cn/)、[Apache Thrift](https://github.com/apache/thrift/)
 
 #### 中间件
@@ -27,6 +27,9 @@
 1. [Nginx](http://nginx.org/en/docs/) 是一个高性能的反向代理服务器，同时有丰富的模块来拓展Nginx。
       - [淘宝 Nginx 的中文文档](http://tengine.taobao.org/nginx_docs/cn/docs/dirindex.html)
 2. [Openresty](https://openresty.org/cn/installation.html) 是基于 Nginx 的高性能 Web 服务器，并且支持 Lua 拓展
+3. [OpenSearch](https://opensearch.org/docs/latest/intro/) 是一个分布式搜索引擎，并且由社区驱动的 Elasticsearch 和 Kibana 的开源分叉
+4. [CASBin](https://casbin.org/zh/docs/overview/)是一个强大和高效的开放源码访问控制库，它支持各种 访问控制模型 以强制全面执行授权，[开源地址](https://github.com/casbin/casbin)
+
 
 ## Kotlin
 
@@ -34,7 +37,7 @@
 
 ## Go
 
-1. [GolangStudy](https://github.com/cnymw/GolangStudy)提供了 Go 的学习路线和资料
+1. [GolangStudy](https://github.com/cnymw/GolangStudy) 提供了 Go 的学习路线和资料
 
 ## 前端
 
@@ -46,9 +49,9 @@
 
 > 这里整理了一些不错的 UI 库、站点...
 
-1. [AWA UI](https://www.handsome-css.com/loaders),收集了仅靠 CSS 与 HTML 就可以实现的动效 UI
+1. [AWA UI](https://www.handsome-css.com/loaders) 收集了仅靠 CSS 与 HTML 就可以实现的动效 UI
 2. [uiverse](https://uiverse.io/loaders),也是收集、分享很多不错UI动效的网站，支持按 TailwindCss 分类
-3. [Framer-Motion](https://www.framer.com/motion/) ,React 生态中最好用的动效库
+3. [Framer-Motion](https://www.framer.com/motion/) React 生态中最好用的动效库
 
 
 ## 学习
@@ -64,7 +67,7 @@
 7. [麻省理工学院公开课：算法导论](http://open.163.com/special/opencourse/algorithms.html)
 
 
-# 博客站
+# 博客
 
 ## 技术博主
 
@@ -85,29 +88,28 @@
 
 # 工具软件
 
-> 记录一些平时在用的软件,还有一些有趣的软件(local first)
+> 记录一些平时在用的软件,还有一些有趣的软件(local first、open-source-first、self-hosting-first)
 
-1. [Typora](https://typora.io/) 是一款"所见即所得"的 Markdown 编辑器，懂得都懂
+1. [Typora](https://typora.io/) 是一款 "所见即所得"的 Markdown 编辑器，懂得都懂
 2. [Obsidian](https://obsidian.md/) 是本地优先的笔记管理工具，有丰富的插件系统。它的图谱、双链可以很好的展现出知识逻辑关系。还可以通过"加钱" 购入官方同步服务和发布服务,用起来很丝滑...
 3. [Vscode](https://code.visualstudio.com/) 不用说,不管是前端开发还是后端开发都非常适用的 IDE
 4. [Mermaid](https://mermaid.js.org/) 在 Markdown 中编写流程图！
 5. 手绘风格的在线画图工具[Excalidraw](https://excalidraw.com/),拥有多种丰富的开源组件。并且支持slef-hosting
-6. [根据Mac 地址查看网卡制造商](https://maclookup.app/)
-7. [生成 ascii 的树形目录结构](https://ascii-tree-generator.com/)
-8. [Xlog](https://xlog.app/) 是基于区块链的博客平台，[开源地址](https://github.com/Crossbell-Box/xLog)
+6. [tldraw](https://tldraw.com/) 是一个可自部署的白板，[开源地址](https://github.com/tldraw/tldraw)
+7. [根据Mac 地址查看网卡制造商](https://maclookup.app/)
+8. [生成 ascii 的树形目录结构](https://ascii-tree-generator.com/)
+9. [Xlog](https://xlog.app/) 是基于区块链的博客平台，[开源地址](https://github.com/Crossbell-Box/xLog)
+10. [PMail](https://github.com/Jinnrry/PMail) 基于Go编写的一个可自部署的私人邮箱服务，可以搭建一个自己的域名邮箱。
 
 
 # AI
 
-> ![Note]
 > 这里整理了一些 Ai 工具、仓库、站点
 
 ## 工具
 
 1. [AIGC 提示词可视化编辑器](https://moonvy.com/apps/ops/),[开源地址](https://github.com/Moonvy/OpenPromptStudio)，现在支持 现在支持 Midjourney
-
 2. [Stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 为 [Stable-diffusion](https://github.com/Stability-AI/StableStudio) 提供了 web 界面，其他
-
 3. [Lobe Chat](https://chat-preview.lobehub.com) 是一个开源的高性能聊天机器人框架，支持语音合成、多模态和可扩展的功能调用插件系统,[开源地址](https://github.com/lobehub/lobe-chat)
 4. [tabby](https://tabby.tabbyml.com/) 是一个支持瑟利夫-hosting 的ai 代码助手，[开源地址](https://github.com/TabbyML/tabby)
 
@@ -120,17 +122,17 @@
 ## 教程
 
 1. 微软提供的 AI 教程[AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners),适合初学者
-
 2. [Comflowy](https://www.comflowy.com/zh-CN) 是以 ComfyUI 和 Stable Diffusion 为核心，打造更优质的生产工具、构建开发者与用户内容社区
-
 3. [Prompt-Engineering-Guide](https://www.promptingguide.ai/),是一个学习 Prompt 的网站，[开源地址](https://github.com/dair-ai/Prompt-Engineering-Guide)，类似的还有
     - [Learnprompting](https://learnprompting.org/)，[开源地址](https://github.com/trigaten/Learn_Prompting)
 4. [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc) 是一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型
-5. 
 
 # 其他站点
 
 ## 技术
+
+> [!NOTE]
+> 这里主要是一些计算机基础知识相关的网站
 
 1. [Trending Papers](https://trendingpapers.com/) 是类似于 Github Trending 的计算机科学论文趋势榜单
 
@@ -145,5 +147,8 @@
 3. [程序员盒子](https://www.coderutil.com/) 为开发者提供了很多技术资料的导航
 
 ## 工具软件分享
+
+> [!NOTE]
+> 这里主要是一些工具软件的 awesome 合集
 
 1. [Best-App](https://github.com/hzlzh/Best-App) 收集了很多优秀的 Apps/硬件/技巧/周边等
