@@ -131,6 +131,12 @@
 1. [memo](https://memo.ac/) 是一款将视频转换为翻译文本、字幕和笔记的工具。无论是YouTube、播客还是本地音频和视频文件，Memo都能轻松将其转换为文本并提炼精华。
 
 
+### AI 音乐
+
+1. [Soundraw](https://soundraw.io/)
+
+2. [Suno](https://app.suno.ai/) 
+
 
 ## Awesome
 
