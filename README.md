@@ -109,9 +109,27 @@
 ## 工具
 
 1. [AIGC 提示词可视化编辑器](https://moonvy.com/apps/ops/),[开源地址](https://github.com/Moonvy/OpenPromptStudio)，现在支持 现在支持 Midjourney
-2. [Stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 为 [Stable-diffusion](https://github.com/Stability-AI/StableStudio) 提供了 web 界面，其他
-3. [Lobe Chat](https://chat-preview.lobehub.com) 是一个开源的高性能聊天机器人框架，支持语音合成、多模态和可扩展的功能调用插件系统,[开源地址](https://github.com/lobehub/lobe-chat)
-4. [tabby](https://tabby.tabbyml.com/) 是一个支持瑟利夫-hosting 的ai 代码助手，[开源地址](https://github.com/TabbyML/tabby)
+2. [Lobe Chat](https://chat-preview.lobehub.com) 是一个开源的高性能聊天机器人框架，支持语音合成、多模态和可扩展的功能调用插件系统,[开源地址](https://github.com/lobehub/lobe-chat)
+3. [tabby](https://tabby.tabbyml.com/) 是一个支持瑟利夫-hosting 的ai 代码助手，[开源地址](https://github.com/TabbyML/tabby)
+
+### AI 图像
+
+1. [InstantID](https://github.com/InstantID/InstantID) 是一种基于扩散模型的图像生成技术，能够实现零次个性化图像合成。用户仅需提供一张面部图像，即可生成保持身份特征的高保真个性化图像。InstantID 具备身份特征保留、风格迁移、新视角合成、身份插值、多身份合成等功能，并可与预训练文本到图像扩散模型如SD1.5和SDXL无缝集成。它包含ID嵌入、图像适配器和IdentityNet三个关键部分，适用于多种图像合成需求，提供灵活、高效的个性化
+
+2. [civitai](https://civitai.com) 是全球最大AI绘画模型分享平台,目前需要"飞机",它是基于开源 AI 绘画模型 Stable Diffusion 的模型分享平台。你可以在这里浏览和下载来自全球 AI创作者的数万种 AI 绘图模型
+
+3. [Stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 为 [Stable-diffusion](https://github.com/Stability-AI/StableStudio) 提供了 web 界面
+
+###  AI 语音
+
+1. [TTS-Online](https://www.ttson.cn/) 是一个在线文字转语音的服务,提供了 200 多种声音选项
+2. [EmotiVoice](https://github.com/netease-youdao/EmotiVoice) 是网易开源的一款多音色提示控制TTS, 完全免费，支持中英文双语，包含2000多种不同的音色，以及特色的情感合成功能，支持合成包含快乐、兴奋、悲伤、愤怒等广泛情感的语音。
+
+
+### AI 视频
+
+1. [memo](https://memo.ac/) 是一款将视频转换为翻译文本、字幕和笔记的工具。无论是YouTube、播客还是本地音频和视频文件，Memo都能轻松将其转换为文本并提炼精华。
+
 
 
 ## Awesome
