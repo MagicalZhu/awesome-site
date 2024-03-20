@@ -29,6 +29,7 @@
 2. [Openresty](https://openresty.org/cn/installation.html) 是基于 Nginx 的高性能 Web 服务器，并且支持 Lua 拓展
 3. [OpenSearch](https://opensearch.org/docs/latest/intro/) 是一个分布式搜索引擎，并且由社区驱动的 Elasticsearch 和 Kibana 的开源分叉
 4. [CASBin](https://casbin.org/zh/docs/overview/)是一个强大和高效的开放源码访问控制库，它支持各种 访问控制模型 以强制全面执行授权，[开源地址](https://github.com/casbin/casbin)
+5. [Mysql8]([https://mysql.net.cn/doc/refman/8.0/en/innodb-buffer-pool.html](https://mysql.net.cn/doc/refman/8.0/en/introduction.html) 的中文文档，可以作为参考
 
 
 ## Kotlin
