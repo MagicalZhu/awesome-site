@@ -66,6 +66,7 @@
 5. [计算机体系结构基础](https://foxsen.github.io/archbase) 是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本
 6. [LeetCode All in One 题目讲解汇总](https://github.com/grandyang/leetcode)
 7. [麻省理工学院公开课：算法导论](http://open.163.com/special/opencourse/algorithms.html)
+8. [凤凰架构](https://icyfenix.cn/summary/) 是[周志明](https://github.com/fenixsoft)老师的新作,对各种架构中常见的问题进行了剖析,读完之后很多技术问题会有一种豁然开朗的感觉，所以强推！
 
 
 # 博客
@@ -111,7 +112,7 @@
 
 1. [AIGC 提示词可视化编辑器](https://moonvy.com/apps/ops/),[开源地址](https://github.com/Moonvy/OpenPromptStudio)，现在支持 现在支持 Midjourney
 2. [Lobe Chat](https://chat-preview.lobehub.com) 是一个开源的高性能聊天机器人框架，支持语音合成、多模态和可扩展的功能调用插件系统,[开源地址](https://github.com/lobehub/lobe-chat)
-3. [tabby](https://tabby.tabbyml.com/) 是一个支持瑟利夫-hosting 的ai 代码助手，[开源地址](https://github.com/TabbyML/tabby)
+3. [tabby](https://tabby.tabbyml.com/) 是一个支持self-hosting 的 ai 代码助手，[开源地址](https://github.com/TabbyML/tabby)
 
 ### AI 图像
 
