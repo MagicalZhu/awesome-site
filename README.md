@@ -40,6 +40,17 @@
 
 1. [GolangStudy](https://github.com/cnymw/GolangStudy) 提供了 Go 的学习路线和资料
 
+## Rust
+
+> Rust 不用多说,一切可以被 Rust 重写的,终将被锈化 >_< ! 它有着与 C/C++ 般的性能,并且无需过多优化就可以有不错的性能。但是它的学习路线非常陡峭 XD
+
+### 学习教程
+
+> [!NOTE]
+> Rust 的一些学习教程,方便快速的了解、入门 Rust
+
+[Rust语言圣经](https://course.rs/into-rust.html) 是一本[开源](https://github.com/sunface/rust-course)书籍,可以很好的帮助开发者入门 Rust,并且全文风格幽默(利于缓解学习 Rust 带来的PTSD)
+
 ## 前端
 
 ### 设计
@@ -54,7 +65,6 @@
 2. [uiverse](https://uiverse.io/loaders),也是收集、分享很多不错UI动效的网站，支持按 TailwindCss 分类
 3. [Framer-Motion](https://www.framer.com/motion/) React 生态中最好用的动效库
 
-
 ## 学习
 
 > 这里记录一些不错的学习资源(视频、在线网站、awesome 资源...)
@@ -67,7 +77,6 @@
 6. [LeetCode All in One 题目讲解汇总](https://github.com/grandyang/leetcode)
 7. [麻省理工学院公开课：算法导论](http://open.163.com/special/opencourse/algorithms.html)
 8. [凤凰架构](https://icyfenix.cn/summary/) 是[周志明](https://github.com/fenixsoft)老师的新作,对各种架构中常见的问题进行了剖析,读完之后很多技术问题会有一种豁然开朗的感觉，所以强推！
-
 
 # 博客
 
@@ -103,7 +112,6 @@
 9. [Xlog](https://xlog.app/) 是基于区块链的博客平台，[开源地址](https://github.com/Crossbell-Box/xLog)
 10. [PMail](https://github.com/Jinnrry/PMail) 基于Go编写的一个可自部署的私人邮箱服务，可以搭建一个自己的域名邮箱。
 
-
 # AI
 
 > 这里整理了一些 Ai 工具、仓库、站点
@@ -122,24 +130,21 @@
 
 3. [Stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 为 [Stable-diffusion](https://github.com/Stability-AI/StableStudio) 提供了 web 界面
 
-###  AI 语音
+### AI 语音
 
 1. [TTS-Online](https://www.ttson.cn/) 是一个在线文字转语音的服务,提供了 200 多种声音选项
 2. [EmotiVoice](https://github.com/netease-youdao/EmotiVoice) 是网易开源的一款多音色提示控制TTS, 完全免费，支持中英文双语，包含2000多种不同的音色，以及特色的情感合成功能，支持合成包含快乐、兴奋、悲伤、愤怒等广泛情感的语音。
-
 
 ### AI 视频
 
 1. [memo](https://memo.ac/) 是一款将视频转换为翻译文本、字幕和笔记的工具。无论是YouTube、播客还是本地音频和视频文件，Memo都能轻松将其转换为文本并提炼精华。
 2. [Pika](https://pika.art/) 是一款文字、图片生成视频的 ai 工具
 
-
 ### AI 音乐
 
 1. [Soundraw](https://soundraw.io/)
 
-2. [Suno](https://app.suno.ai/) 
-
+2. [Suno](https://app.suno.ai/)
 
 ## Awesome
 
