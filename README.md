@@ -65,6 +65,11 @@
 2. [uiverse](https://uiverse.io/loaders),也是收集、分享很多不错UI动效的网站，支持按 TailwindCss 分类
 3. [Framer-Motion](https://www.framer.com/motion/) React 生态中最好用的动效库
 
+## 开发效率
+
+1. [Tailwind Css 生成器](https://tailwind-generator.com/card-generator/generator),可视化的编辑组件.最后将组件导出为tailwind 组件
+2. [表格转换工具](https://tableconvert.com/) 可以将表格转为多种格式，比如我常用的就是将 csv 转为 sql 语句(支持表结构定义语句的输出)
+
 ## 学习
 
 > 这里记录一些不错的学习资源(视频、在线网站、awesome 资源...)
