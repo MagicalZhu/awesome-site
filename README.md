@@ -1,6 +1,6 @@
 <h1>awesome-site</h1>
 
-> 一些收藏的站点
+> 一些收藏的站点,建设中
 
 # 开发
 
@@ -101,6 +101,12 @@
 1. [JavaGuide(Java面试 + 学习指南)](https://javaguide.cn/), 在Github 上的 star 已经超过 13 w
 2. [海外兔的TopK面试题](https://osjobs.net/topk),对有刷面试算法题需求的很不错
 3. [Orchome](https://www.orchome.com) 提供了很多技术的学习教程，比如[Kafka](https://www.orchome.com/kafka/index)、[istio](https://www.orchome.com/istio/index)...
+
+## 周刊
+
+> 个人关注的一些周刊
+
+1. [Paranoid_K](https://pengtikui.cn/weekly/issue-74) 以 next 作为技术栈，一些推荐的工具还不错
 
 # 工具软件
 
